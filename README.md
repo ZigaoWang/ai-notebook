@@ -1,10 +1,8 @@
-# Nextra Docs Template 
+# Zigao 的 AIGC 笔记本
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+[**Live Demo →**](https://aigc.zigao.wang)
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+[![](https://assets.zigao.wang/img/57431721572311_.pic_hd.jpg)](https://aigc.zigao.wang)
 
 ## Quick Start
 
