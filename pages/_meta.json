@@ -1,9 +1,10 @@
 {
   "index": "前言",
+  "what-is-aigc": "什么是 AIGC？",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "关于",
+    "title": "关于 ↗",
     "type": "page"
   },
   "contact": {
