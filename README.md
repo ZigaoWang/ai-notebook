@@ -1,8 +1,8 @@
-# Zigao 的 AIGC 笔记本
+# Zigao 的 AI 笔记本
 
-[**Live Demo →**](https://aigc.zigao.wang)
+[**Live Demo →**](https://ai.notebook.zigao.wang)
 
-[![](https://assets.zigao.wang/img/57431721572311_.pic_hd.jpg)](https://aigc.zigao.wang)
+[![](https://assets.zigao.wang/img/57431721572311_.pic_hd.jpg)](https://ai.notebook.zigao.wang)
 
 ## Quick Start
 
