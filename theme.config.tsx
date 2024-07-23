@@ -3,15 +3,15 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: (
-      <div className="flex items-center gap-2">
+      <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
         <img
             src="https://assets.zigao.wang/img/AIGC-logo.png"
             alt="Logo"
-            width={512}
-            height={512}
-            className="object-contain"
+            width={30}
+            height={30}
+            style={{ objectFit: 'contain' }}
         />
-        <span className="text-lg font-bold">Zigao 的 AI 笔记本</span>
+        <span style={{ fontSize: '1.125rem', fontWeight: 'bold' }}>Zigao 的 AI 笔记本</span>
       </div>
   ),
   project: {
