@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>Zigao 的 AIGC 笔记本</span>,
+  logo: <span>Zigao 的 AI 笔记本</span>,
   project: {
     link: 'https://github.com/ZigaoWang/aigc',
   },
@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   // },
   docsRepositoryBase: 'https://github.com/ZigaoWang/aigc',
   footer: {
-    text: 'Zigao 的 AIGC 笔记本',
+    text: 'Zigao 的 AI 笔记本',
   },
 }
 
