@@ -7,8 +7,8 @@ const config: DocsThemeConfig = {
         <img
             src="https://assets.zigao.wang/img/AIGC-logo.png"
             alt="Logo"
-            width={24}
-            height={24}
+            width={512}
+            height={512}
             className="object-contain"
         />
         <span className="text-lg font-bold">Zigao 的 AI 笔记本</span>
